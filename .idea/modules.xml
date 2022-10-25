@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/cms_course.iml" filepath="$PROJECT_DIR$/.idea/cms_course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../crudphpajax/.idea/crudphpajax.iml" filepath="$PROJECT_DIR$/../crudphpajax/.idea/crudphpajax.iml" />
+    </modules>
+  </component>
+</project>
